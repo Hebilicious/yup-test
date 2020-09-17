@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "ts-node yup.test.ts"
+  },
+  "dependencies": {
+    "@types/yup": "^0.29.7",
+    "ts-node": "^9.0.0",
+    "yup": "^0.29.3"
+  }
+}
